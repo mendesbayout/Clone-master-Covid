@@ -1,0 +1,23 @@
+{
+  "name": "covid-19-rj",
+  "version": "1.0.0",
+  "description": "Implementing Against-Covid-19 App.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoRSSR/Against-Covid-19-RJ.git"
+  },
+  "keywords": [
+    "javascript",
+    "Covid-19"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoRSSR/Against-Covid-19-RJ/issues"
+  },
+  "homepage": "https://github.com/EduardoRSSR/Against-Covid-19-RJ#readme"
+}
